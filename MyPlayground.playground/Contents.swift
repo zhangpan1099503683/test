@@ -14,7 +14,9 @@ var sum=a+b
 print(sum)
 
 
-var n:Int = 4
+var n:Int
+n=4
+
 
 
 
