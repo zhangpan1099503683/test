@@ -17,6 +17,14 @@ print(sum)
 var n:Int
 n=4
 
+if (a<3)
+{
+    print("he")
+}
+else
+{
+    print("chi")
+}
 
 
 
